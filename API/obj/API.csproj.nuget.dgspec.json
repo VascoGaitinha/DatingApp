@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v_bej\\Desktop\\ASPNET\\api\\API.csproj": {}
+    "C:\\Users\\v_bej\\Desktop\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v_bej\\Desktop\\ASPNET\\api\\API.csproj": {
+    "C:\\Users\\v_bej\\Desktop\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v_bej\\Desktop\\ASPNET\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\v_bej\\Desktop\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\v_bej\\Desktop\\ASPNET\\api\\API.csproj",
+        "projectPath": "C:\\Users\\v_bej\\Desktop\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\v_bej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v_bej\\Desktop\\ASPNET\\api\\obj\\",
+        "outputPath": "C:\\Users\\v_bej\\Desktop\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v_bej\\AppData\\Roaming\\NuGet\\NuGet.Config"
